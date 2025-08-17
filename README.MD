@@ -160,10 +160,5 @@ npm run dev
 
 ---
 
-## 📜 License
-
-MIT License © 2025 Your Name
-
----
 
 👉 Would you like me to also include a **sample ER diagram (tables + relationships)** inside the README, alongside `ARCHITECTURE.png`? That way the schema is clear for anyone reading your repo.
